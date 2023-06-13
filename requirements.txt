@@ -1,0 +1,6 @@
+pandas
+torch
+transformers
+Pillow
+requests
+beautifulsoup4
